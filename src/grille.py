@@ -1,0 +1,1 @@
+#fichier avec la logique mathématique du puissance 4
