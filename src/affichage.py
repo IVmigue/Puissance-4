@@ -1,1 +1,1 @@
-#fichier de l'affichage (tout ce qui touche l'ecran et le clavier)
+#file with the display logic (everything that touches the monitor and keyboard)
