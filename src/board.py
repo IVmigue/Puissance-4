@@ -17,8 +17,12 @@ def board_full(board):
 
 
 # tests
-board = create_board()
 
-def display_board(board):
-    for line in board:
-        print(board)
+if __name__ == "__main__":
+    board = create_board()
+
+    def display_board(board):
+        for line in board:
+            print(line)
+
+    display_board(board)
